@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  userId: 9.99
+  paid: false
+  price: 9.99
+  status: MyString
+
+two:
+  userId: 9.99
+  paid: false
+  price: 9.99
+  status: MyString
